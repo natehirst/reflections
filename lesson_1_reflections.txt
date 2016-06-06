@@ -18,4 +18,4 @@ How can you use the commands git log and git diff to view the history of files?
 
 	git log from the current repository directory will show a breakdown of all commits. git diff allows you to choose two commit ids and and show the changes between them. The order of commits is the last commit as the first item in the list.
 
-	
+	...adding a small change for testing purposes...
